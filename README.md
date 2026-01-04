@@ -73,7 +73,7 @@ ASP.NET MVC
 
 C#
 
-Razor Views
+Razor Views.
 
 HTML5 / CSS3
 
