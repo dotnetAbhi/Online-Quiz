@@ -39,7 +39,7 @@ Fullscreen exam mode
 
 Automatic question switching on timeout
 
-Progress bar timer
+Progress bar timer.
 
 Username displayed during exam
 
