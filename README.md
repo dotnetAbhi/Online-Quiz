@@ -5,7 +5,7 @@
 
 1️⃣ Add EF Core cleanly
 2️⃣ Admin CRUD (without breaking quiz)
-3️⃣ Results table
+3️⃣ Results table.
 4️⃣ Authentication
 
 If tum chaho, next message me main bolunga:
