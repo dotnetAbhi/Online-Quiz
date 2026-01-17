@@ -1,6 +1,6 @@
 🚀 NEXT STEP (VERY IMPORTANT ADVICE)
 
-👉 FIRST make this JSON-based quiz run perfectly.
+👉 FIRST make this JSON-based quiz run perfectly
 👉 Then we will:
 
 1️⃣ Add EF Core cleanly
