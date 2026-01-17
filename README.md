@@ -9,7 +9,7 @@ This project allows users to take a timed quiz without login and provides an adm
 
 Enter name and start test (no login/register)
 
-Fullscreen exam mode
+Fullscreen exam mode.
 
 30 MCQ-based questions
 
