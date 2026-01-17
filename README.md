@@ -7,7 +7,7 @@ This project allows users to take a timed quiz without login and provides an adm
 🚀 Features
 👨‍🎓 User Side
 
-Enter name and start test (no login/register)
+Enter name and start test (no login/register).
 
 Fullscreen exam mode.
 
