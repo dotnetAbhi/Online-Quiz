@@ -1,5 +1,5 @@
  
-📝 Online Test Portal – ASP.NET MVC 
+📝 Online Test Portal – ASP.NET MVC  
 
 An Online Test / Examination Portal built using ASP.NET MVC (.NET) with modern UI, animations, timer-based questions, and basic anti-cheating features.
 This project allows users to take a timed quiz without login and provides an admin-ready structure for managing questions and results.
